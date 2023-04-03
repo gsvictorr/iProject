@@ -3,7 +3,7 @@ Esse programa foi desenvolvido como ferramenta de auxílio para aqueles envolvid
 
 
 # Meu primeiro Software
-Compartilho aqui meu primeiro Software, que foi realizado em  2022.
+Compartilho aqui meu primeiro Software, que foi realizado entre o final de 2021 e começo de 2022.
 
 
 # Lib
